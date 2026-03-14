@@ -194,3 +194,6 @@ Contributors
 License
 
 This project is created for educational and hackathon purposes.
+
+prototype:
+https://www.figma.com/design/1weUJjeVdjxcAG9bVAXuwW/UI?node-id=0-1&t=RRGGAypfHaabs4VV-1
